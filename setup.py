@@ -11,7 +11,7 @@ setup(name='Industrialise',
       author_email='rweir@ertius.org',
       url='http://ertius.org/code/industrialise/',
       classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Topic :: Internet :: WWW/HTTP',
