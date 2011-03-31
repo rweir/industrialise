@@ -20,3 +20,4 @@ setup(name='Industrialise',
       requires=['lxml', 'wsgi_intercept'],
       packages=['industrialise', 'industrialise.tests'],
      )
+
